@@ -1,0 +1,11 @@
+#ig
+DOMAIN,badges.instagram.com,REJECT
+DOMAIN,instagramfollowbutton.com,REJECT
+
+#twitter
+DOMAIN-SUFFIX,p.twitter.com,REJECT
+DOMAIN-SUFFIX,scribe.twitter.com,REJECT
+DOMAIN-SUFFIX,syndication.twitter.com,REJECT
+DOMAIN-SUFFIX,syndication-o.twitter.com,REJECT
+DOMAIN-SUFFIX,twitterzs.com,REJECT
+DOMAIN-SUFFIX,urls.api.twitter.com,REJECT
